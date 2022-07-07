@@ -1,0 +1,145 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+}
+
+p {
+  color: #2C3639;
+}
+
+/* Headings */
+.head{
+  color: #2C3639;
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.launch{
+  font-size: 1.5rem;
+  font-weight: lighter;
+}
+.big-heading {
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+
+  font-weight: bold;
+}
+
+/* Containers */
+
+.container-fluid{
+  padding: 7% 15%;
+}
+
+/* Sections */
+
+.colored-section {
+  background-color: #EAF6F6;
+  color: #2C3639;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+
+/* Title Section */
+
+#title {
+  background-color: #EAF6F6;
+  color: #2C3639;
+  text-align: left;
+}
+
+#title .container-fluid {
+  padding: 3% 15% 7%;
+}
+
+
+/* Title Image */
+
+.title-image {
+  width: 60%;
+  position: absolute;
+  right: 10%;
+}
+/* Pricing Section */
+
+#pricing {
+  padding: 100px;
+}
+.a{
+  text-align: left;
+  color: #377D71;
+  font-weight: bold;
+}
+.section-heading{
+  text-align: left;
+}
+.b{
+  text-align: left;
+  line-height: 20px;
+  padding-right: 10%;
+}
+.card1
+{
+  background-color: #FBC5C5;
+  text-align: left;
+}
+.card2{
+  background-color: #DCD7C9;
+  text-align: left;
+}
+.card3{
+  background-color: #FAF3E3;
+  text-align: left;
+}
+.price-text {
+  font-size: 2rem;
+  line-height: 1;
+  padding-top : 20px;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.c {
+  padding-top : 20px;
+}
+.d {
+  padding-top: 0;
+}
+.download-button {
+  margin: 5% 3% 5% 0;
+}
